@@ -1,0 +1,11 @@
+CPAN_AUTHOR=simonw
+inherit perl
+
+NAME="perl-Module-Pluggable"
+VERSION=3.01
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl distribution Module-Pluggable"
+DESCRIPTION="Perl module for giving other modules the ability to have plugins"
+
+ARCH=noarch
