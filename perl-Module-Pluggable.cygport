@@ -2,7 +2,7 @@ CPAN_AUTHOR=simonw
 inherit perl
 
 NAME="perl-Module-Pluggable"
-VERSION=3.01
+VERSION=5.1
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl distribution Module-Pluggable"
